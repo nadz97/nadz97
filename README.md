@@ -21,7 +21,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
 - :telescope: I’m new web developer.
-
+- :zap: Im familiar with HTML, CSS, Javascript, and PHP, Mainly using laravel
 - :seedling: Exploring Full Stack web developing.
 
 
